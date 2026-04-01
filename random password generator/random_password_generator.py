@@ -67,7 +67,7 @@ tk.Label(root, text="Password Length:").pack()
 length_entry = tk.Entry(root)
 length_entry.pack(pady=5)
 
-# Checkboxes
+#Checkboxes
 lower_var = tk.BooleanVar()
 upper_var = tk.BooleanVar()
 digits_var = tk.BooleanVar()
